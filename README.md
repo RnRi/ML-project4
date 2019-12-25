@@ -17,7 +17,7 @@ Python libraries:
 
 # Dataset:
 
-    ```data.csv```
+    data.csv
 
 # To run algorithms:
 
